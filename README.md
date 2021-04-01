@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: t.me/supran98
+- 📫 How to reach me: https://t.me/supran98
 
 <!---
 supran98/supran98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
