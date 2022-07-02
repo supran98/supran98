@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Suprankov
-- By this moment, all you can see here is small homework-like projects, which I do for my personal use or to check myself.
+- By this moment, all you can see here is small homework-like projects, which I do for my personal use or self-development.
 - I don't have any experience of commercial development.
 
 <!---
